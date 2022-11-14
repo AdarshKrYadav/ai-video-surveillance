@@ -1,7 +1,7 @@
 video="";
 object_detector="";
 status="";
-function preLoad(){
+function preload(){
     video=createVideo("video.mp4");
     video.hide();
 }
